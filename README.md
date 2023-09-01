@@ -28,7 +28,7 @@ git clone https://github.com/Sanjok-Mangrati/Navigation_Menu_01.git
 cd Navigation_Menu_01
 
 ```
-Open ```index.html``` in your preferred web browser to view the YouTube clone.
+Open ```index.html``` in your preferred web browser to view the Navigation Menu.
 
 ## Contributing
 
